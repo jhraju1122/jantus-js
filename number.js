@@ -6,7 +6,7 @@ var first = 0.1;
 var second = 0.5;
 var total = first+second;
 console.log(total.toFixed(4));
-const
+const4
 
 
 console.log(orangePrice);
